@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author asad
+ *
+ */
+module corejava {
+}
